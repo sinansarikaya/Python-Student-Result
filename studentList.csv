@@ -1,5 +1,5 @@
 Name,Surname,School Number,Exam Result,Letter Grade,Status,Lesson
-Ahmet,Mehmet,223,75,C,Geçti,Math
-Sinan,Sarikaya,454,85,B,Geçti,Math
-Ali,Veli,887,40,F,Kaldı,Math
+Ahmet,Mehmet,223,75,C,Passed,Math
+Sinan,Sarikaya,454,85,B,Passed,Math
+Ali,Veli,887,40,F,Failed,Math
 Mahmut,Ates,332,70,C,Passed,Math
